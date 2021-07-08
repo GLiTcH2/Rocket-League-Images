@@ -1,4 +1,4 @@
-# RocketLeagueImages
+# Rocket League Image Assets
 Rocket League asset images pulled from the game files
 
 I do not claim to own any of these images!
