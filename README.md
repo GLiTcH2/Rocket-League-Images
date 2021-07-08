@@ -1,2 +1,2 @@
 # RocketLeagueImages
-Rocket League Asset Images pulled from the game files
+Rocket League asset images pulled from the game files
